@@ -17,11 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatumiRodenja", "DatumiRode
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaniMjeseca", "DaniMjeseca\DaniMjeseca.csproj", "{E1CBF479-BF29-4AF3-9518-88E467F21BE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djelitelji", "Djelitelji\Djelitelji.csproj", "{AF8998D0-8DD0-4E86-A18A-3B8EBC822933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Djelitelji", "Djelitelji\Djelitelji.csproj", "{AF8998D0-8DD0-4E86-A18A-3B8EBC822933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djelitelji_DoPetlja", "Djelitelji_DoPetlja\Djelitelji_DoPetlja.csproj", "{6DAE4E24-FF49-4837-B867-CAF83CFE2761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Djelitelji_DoPetlja", "Djelitelji_DoPetlja\Djelitelji_DoPetlja.csproj", "{6DAE4E24-FF49-4837-B867-CAF83CFE2761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VjezbaBlic1", "VjezbaBlic1\VjezbaBlic1.csproj", "{804006B0-FFEE-4CCF-B2A0-46B7B8443390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VjezbaBlic1", "VjezbaBlic1\VjezbaBlic1.csproj", "{804006B0-FFEE-4CCF-B2A0-46B7B8443390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IzracunKamata", "IzracunKamata\IzracunKamata.csproj", "{F691B021-891D-4981-AFF1-A2368A38E46D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IzracunKamata_Exception", "IzracunKamata_Exception\IzracunKamata_Exception.csproj", "{9A663D8A-2F31-466C-BA7D-B1BC9720C052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtplataKredita", "OtplataKredita\OtplataKredita.csproj", "{4719FC7F-2D68-4C44-9090-3CA70A48B147}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{804006B0-FFEE-4CCF-B2A0-46B7B8443390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804006B0-FFEE-4CCF-B2A0-46B7B8443390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804006B0-FFEE-4CCF-B2A0-46B7B8443390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F691B021-891D-4981-AFF1-A2368A38E46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F691B021-891D-4981-AFF1-A2368A38E46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F691B021-891D-4981-AFF1-A2368A38E46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F691B021-891D-4981-AFF1-A2368A38E46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A663D8A-2F31-466C-BA7D-B1BC9720C052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A663D8A-2F31-466C-BA7D-B1BC9720C052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A663D8A-2F31-466C-BA7D-B1BC9720C052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A663D8A-2F31-466C-BA7D-B1BC9720C052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4719FC7F-2D68-4C44-9090-3CA70A48B147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4719FC7F-2D68-4C44-9090-3CA70A48B147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4719FC7F-2D68-4C44-9090-3CA70A48B147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4719FC7F-2D68-4C44-9090-3CA70A48B147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
