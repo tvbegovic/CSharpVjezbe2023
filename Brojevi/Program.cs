@@ -64,5 +64,16 @@ do
             Console.Write("{0} ", broj);
         }
         Console.WriteLine();
+
+        //Izračun upotrebom extension funkcija
+        zbroj = brojevi.Sum();
+        najmanji = brojevi.Min();
+        najveci = brojevi.Max();
+        prosjek = brojevi.Average();
+        Console.WriteLine("Izračun upotrebom extension funkcija");
+        Console.WriteLine("Suma elemenata polja je {0}", zbroj);
+        Console.WriteLine("Prosjek vrijednosti je {0}", prosjek);
+        Console.WriteLine("Najveći element polja je {0}", najveci);
+        Console.WriteLine("Najmanji element polja je {0}", najmanji);
     }
 } while (nastavi);
