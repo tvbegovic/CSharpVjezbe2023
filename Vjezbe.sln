@@ -39,6 +39,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brojevi", "Brojevi\Brojevi.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortiranjeRijeci", "SortiranjeRijeci\SortiranjeRijeci.csproj", "{CE371890-894A-48CF-9AC8-BB53B7BBCCC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaRijeci", "ListaRijeci\ListaRijeci.csproj", "{1B49B37E-7D4F-4348-943A-2553612BCD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VjezbaBlic2", "VjezbaBlic2\VjezbaBlic2.csproj", "{53280212-28E7-4945-8ABA-659ADBDFB7E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{CE371890-894A-48CF-9AC8-BB53B7BBCCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE371890-894A-48CF-9AC8-BB53B7BBCCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE371890-894A-48CF-9AC8-BB53B7BBCCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B49B37E-7D4F-4348-943A-2553612BCD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B49B37E-7D4F-4348-943A-2553612BCD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B49B37E-7D4F-4348-943A-2553612BCD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B49B37E-7D4F-4348-943A-2553612BCD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53280212-28E7-4945-8ABA-659ADBDFB7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53280212-28E7-4945-8ABA-659ADBDFB7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53280212-28E7-4945-8ABA-659ADBDFB7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53280212-28E7-4945-8ABA-659ADBDFB7E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
