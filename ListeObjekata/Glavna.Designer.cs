@@ -172,6 +172,7 @@
             this.btnSpremi.TabIndex = 50;
             this.btnSpremi.Text = "Spremi u datoteku";
             this.btnSpremi.UseVisualStyleBackColor = true;
+            this.btnSpremi.Click += new System.EventHandler(this.btnSpremi_Click);
             // 
             // btnUcitaj
             // 
@@ -181,6 +182,7 @@
             this.btnUcitaj.TabIndex = 50;
             this.btnUcitaj.Text = "Učitaj iz datoteke";
             this.btnUcitaj.UseVisualStyleBackColor = true;
+            this.btnUcitaj.Click += new System.EventHandler(this.btnUcitaj_Click);
             // 
             // Glavna
             // 
